@@ -1,0 +1,81 @@
+body
+{
+    font-family: 'Kumbh Sans', sans-serif;
+   margin: 0;
+   background-color:  hsl(185, 75%, 39%);
+}
+
+
+.top-bg
+{
+    width: 50%;
+    position: relative;
+    bottom: 200px;
+    right: 200px;
+}
+
+.bottom-bg
+{
+    width: 50%;
+    float: right;
+    position: absolute;
+    right: -100px;
+    top: 350px;
+}
+
+.card
+{
+
+    border-radius: 10px;
+    width: 23.01%;
+    position: absolute;
+    text-align: center;
+  top: 20%;
+  left: 37%;
+  background-color: white;
+}
+
+.dp-pic
+{
+    position: absolute;
+    border-radius: 50%;
+    border: solid 5px white;
+    margin: 20% -15%;
+    width: 30%;
+}
+
+.card-data
+{
+    margin-top: 12%;
+
+}
+.card-up{
+    border-radius:10px 10px 0 0;
+    width: 100%;
+}
+
+h3
+{
+    margin-bottom: 5%;
+}
+.design
+{
+    color: hsl(227, 10%, 46%);
+}
+hr
+{
+    border: solid 0.75erm hsl(227, 10%, 46%);
+    border-bottom: none;
+    margin-top: 30px;
+}
+.follower-like-photo
+{
+    margin: 30px auto 30px auto;
+
+}
+p{
+    display: inline;
+    padding: 10px;
+}
+
+
